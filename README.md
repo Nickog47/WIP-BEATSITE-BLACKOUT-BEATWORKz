@@ -72,3 +72,4 @@ For collaborations, licensing, or support:
 ---
 
 © 2024 BLACKOUT BEATWORKz. All rights reserved. Work in progress - help appreciated, but do not steal our work.
+© 2024 BLACKOUT BEATWORKz. All rights reserved. Work in progress - help appreciated, but do not steal our work.
