@@ -1,4 +1,4 @@
-# BLACKOUT BEATWORKz - Professional Beat Website
+# A website for beatblock and beatrock
 
 A professional website for showcasing beats and sample packs. This is a work in progress and we appreciate public help, but please respect our intellectual property.
 
