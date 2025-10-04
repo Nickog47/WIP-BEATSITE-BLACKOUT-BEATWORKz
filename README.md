@@ -1,7 +1,6 @@
 # A website for beatblock and beatrock
-
-A professional website for showcasing beats and sample packs. This is a work in progress and we appreciate public help, but please respect our intellectual property.
-
+# WIP-BEATSITE-BLACKOUT-BEATWORKz
+My website that is a WIP and I could use help for sure making this look as professional as possible    
 ## 🎵 Features
 
 - **Professional Design**: Modern, dark theme with green accents
